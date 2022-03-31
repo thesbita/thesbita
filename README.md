@@ -17,7 +17,6 @@
   <img align="center" alt="Manu-Behance" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
   <img align="center" alt="Manu-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
    
-    ########
 </div>
   <a href="https://www.instagram.com/thesbiita/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:e.thesbita@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
