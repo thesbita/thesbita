@@ -1,6 +1,6 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif">
 
-# Seja bem vindo(a) ao meu Github :) <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+# Seja bem vindo(a) ao meu Github <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 #### :octocat: 19 anos de sonho e de América do Sul, sou atualmente uma estudante da área da computação e tecnologia sempre buscando a evolução e o aprendizado.
 🔗 Quer ver meu perfil profissional? É só clicar no botão ao lado <a href="https://www.linkedin.com/in/emanuelle-thesbita-39051b207/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
@@ -23,8 +23,8 @@
 ## Commits & linguagens ⭐
   <div align="center">
   <a href="https://github.com/thesbita">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=thesbita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesbita&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=thesbita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesbita&layout=compact&langs_count=7&theme=dracula"/>
     <!--    <img   height="180em" width="48%"" src="https://github-readme-streak-stats.herokuapp.com/?user=thesbita&theme=dracula"/> -->
 </div>
 
